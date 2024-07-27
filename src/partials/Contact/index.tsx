@@ -58,7 +58,7 @@ function Contact() {
               <div>
                 <div className={style.emailContainer}>
                   <a className={style.email} href="mailto:contact@levinhkhang.org">
-                    levinhkhang631@gmail.com
+                    contact@levinhkhang.org
                   </a>
                 </div>
               </div>
